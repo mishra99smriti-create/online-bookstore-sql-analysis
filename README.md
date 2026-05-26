@@ -1,5 +1,5 @@
 # online-bookstore-sql-analysis
-# Online Bookstore SQL Analysis
+
 
 ## Project Overview
 This project analyzes an online bookstore database using MySQL.  
